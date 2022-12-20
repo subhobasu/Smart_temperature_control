@@ -1,0 +1,2 @@
+#define Automatic_temperature_controller_VERSION_MAJOR @Automatic_temperature_controller_VERSION_MAJOR@
+#define Automatic_temperature_controller_VERSION_MINOR @Automatic_temperature_controller_VERSION_MINOR@

@@ -1,0 +1,2 @@
+#define Automatic_temperature_controller_VERSION_MAJOR 0
+#define Automatic_temperature_controller_VERSION_MINOR 1
