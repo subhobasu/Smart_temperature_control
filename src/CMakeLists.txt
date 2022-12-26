@@ -1,0 +1,1 @@
+add_library(src_temperature_controller_module temperature_controller_module.cpp)
